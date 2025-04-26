@@ -9,7 +9,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("-------------------------------------------------------------------");
-        System.out.println("Bienvenido a la tienda de productos electrónicos".toUpperCase());
+        System.out.println("# Bienvenido a la tienda de productos electrónicos #".toUpperCase());
         System.out.println("-------------------------------------------------------------------");
 
         int numeroOrdenes = 3;
